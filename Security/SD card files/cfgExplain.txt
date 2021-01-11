@@ -1,0 +1,9 @@
+0isModelBuild
+1deleteoldmodel
+2meanCalGain
+3stdCalGain
+4initialPeriod
+5splitCounter
+6trainingSeconds
+7mqttRateSecs
+8smallThreshold
