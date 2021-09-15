@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="Images/Atom esp32.png" alt="Logo" width="1000" height="495">
+    <img src="Images/atom-ESP32.jpg" alt="Logo" width="1000" height="495">
   </a>
 
   <h3 align="center">MicroAI Atom for the ESP32</h3>
@@ -134,9 +134,9 @@ See  [Software Evaluation Licensing Agreement](MicroAI%20Atom%20Evaluation%20Lic
 
 Company: ONETech
 
-Website: www.onetech.ai
+Website: www.micro.ai
 
-Email: support@onetech.ai
+Email: support@micro.ai
 
 
 
