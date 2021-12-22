@@ -132,7 +132,7 @@ See  [Software Evaluation Licensing Agreement](MicroAI%20Atom%20Evaluation%20Lic
 <!-- CONTACT -->
 ## Contact
 
-Company: ONETech
+Company: MicroAI
 
 Website: www.micro.ai
 
